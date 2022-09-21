@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(52, 176, 52);
+}
+
+.score {
+    font-size: 50px;
+    margin-left: 50px;
+}
+
+.timer {
+    font-size: 50px;
+    float:right;
+    margin-right: 950px;
+}
+
+.sketchtobedrawn {
+    color: blue;
+}
